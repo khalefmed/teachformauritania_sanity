@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "sanity dev",
     "start": "sanity start",
-    "build": "sanity build --no-interactive",
+    "build": "sanity build --no-interactive --yes",
     "deploy": "sanity deploy",
     "deploy-graphql": "sanity graphql deploy"
   },
